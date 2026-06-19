@@ -13,12 +13,6 @@ MonoBehaviour:
   m_Name: FlashBack I Start
   m_EditorClassIdentifier: Assembly-CSharp::DialogData
   <dialog>k__BackingField:
-  - text: Mom... I will find you.
-    isPlayer: 1
-    actorName: Walter
-  - text: It's the last 3 checkpoints.
-    isPlayer: 1
-    actorName: Walter
-  - text: After inspecting them, I'll have all that I need.
+  - text: Mom...
     isPlayer: 1
     actorName: Walter

@@ -13,12 +13,6 @@ MonoBehaviour:
   m_Name: DialogueStart
   m_EditorClassIdentifier: Assembly-CSharp::DialogData
   <dialog>k__BackingField:
-  - text: Walter, my son...
-    isPlayer: 1
-    actorName: Ursula
-  - text: I can finally find you again.
-    isPlayer: 1
-    actorName: Ursula
-  - text: I only have to get past the wall.
+  - text: It's been so long
     isPlayer: 1
     actorName: Ursula
